@@ -6,8 +6,10 @@
 - Definição do objetivo (quais perguntas minha análise deve solucionar?)
 - Tratamento e limpeza dos dados
 - Análise (Extrair informações relevantes para conseguir responder perguntas
-
+  
+---
 ## Catálogo dos dados
+
 - **country** -----------------> País onde o vinho foi feito
 - **description** -------------> Descrição do vinho
 - **designation** -------------> Vinhedo dentro da adega onde as uvas que fizeram o vinho foram coletadas
@@ -23,3 +25,20 @@
 - **winery** ------------------> Adega onde o vinho foi feito
 
   ---
+
+## Tabela Auxiliar (Escala de avaliações)
+- **98-100** - Classico
+- **94-97** - Soberbo
+- **90-93** - Excelente
+- **87-89** - Muito bom
+- **83-86** - Bom
+- **80-82** - Aceitável
+
+  
+---
+
+## Perguntas
+1. **Qual país tem o melhor vinho?**
+2. **Existe alguma relação entre o preço e a qualidade dos vinhos?**
+3. **Existe tipos de uvas de maior qualidade?**
+4. **Qual o melhor vinho em cada faixa de preço?**
